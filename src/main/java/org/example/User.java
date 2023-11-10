@@ -1,7 +1,6 @@
 package org.example;
 
-@ToJSON
-@ToCSV
+@DoParse
 public class User {
     private String name;
     private int age;

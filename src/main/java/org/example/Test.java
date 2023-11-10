@@ -1,6 +1,6 @@
 package org.example;
 
-@ToCSV
+@DoParse
 public class Test {
 
     private String name;
